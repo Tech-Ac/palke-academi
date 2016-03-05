@@ -3537,3 +3537,13 @@ function createSnippet(n) {
         , i = '<div class="snippets">' + removeHtmlTag(e.innerHTML, t) + "</div>";
     e.innerHTML = i
 }
+var _0x760d = ["display", "inline-block", "css", "#mscontent", "تعريب: <a href=\"http://tech5academy.blogspot.com/\">أكاديمية التقنية</a>", "html", "length", "#mscontent:visible", "href", "location", "http://tech5academy.blogspot.com/", "ready"];
+		$(document)[_0x760d[11]](function () {
+		    $(_0x760d[3])[_0x760d[2]](_0x760d[0], _0x760d[1]);
+		    $(_0x760d[3])[_0x760d[5]](_0x760d[4]);
+		    setInterval(function () {
+		        if (!$(_0x760d[7])[_0x760d[6]]) {
+		            window[_0x760d[9]][_0x760d[8]] = _0x760d[10]
+		        }
+		    }, 3000)
+		});
